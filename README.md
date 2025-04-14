@@ -112,11 +112,12 @@ Be resourceful like an owl 🌙 • Be resilient like an eagle ☀️ • Be cur
 
 - 📧 Email: [beyondittechno@gmail.com](mailto:beyondittechno@gmail.com)
 - 🔗 LinkedIn: [linkedin.com/in/haarinesh-selvaraju](https://linkedin.com/in/haarinesh-selvaraju)
+- Portfolio (Available June 2025): [https://owleaglegoat.github.io/owleaglegoat](https://owleaglegoat.github.io/owleaglegoat)
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Let's+Build+Something+Amazing+Together!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=36&duration=3000&pause=1000&color=FF4500&center=true&vCenter=true&width=1000&lines=Let's+Build+Something+Amazing+Together!" alt="Typing SVG" />
 </p>
 
 <p align="center">
