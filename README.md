@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Haarinesh Selvaraju 🦉🦅🐐</h1>
 <h3 align="center">AI Engineer | Full-Stack Developer | VR Creator | Network Automation Enthusiast</h3>
 <p align="center">
-Be smart like an owl 🌙 • Be sharp like an eagle ☀️ • Be independent like a goat 🏔️  
+Be resourceful like an owl 🌙 • Be resilence like an eagle ☀️ • Be curios like a goat 🏔️  
 </p> 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=owleaglegoat&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
