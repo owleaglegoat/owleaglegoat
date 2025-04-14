@@ -1,6 +1,6 @@
 <!-- GitHub Profile README for Haarinesh Selvaraju aka owleaglegoat -->
 <h1 align="center">Hi, I'm Haarinesh Selvaraju 🦉🦅🐐</h1>
-<h3 align="center">AI Engineer | Full-Stack Developer | VR Creator | Part-time PhD Student</h3>
+<h3 align="center">AI Engineer | Full-Stack Developer | VR/AR Freelancer | Part-time PhD Student</h3>
 <p align="center">
 Be resourceful like an owl 🌙 • Be resilence like an eagle ☀️ • Be curios like a goat 🏔️  
 </p> 
@@ -74,7 +74,7 @@ Be resourceful like an owl 🌙 • Be resilence like an eagle ☀️ • Be cur
 
 ### 📫 Contact Me
 
-- 📧 Email: [shaarinesh@gmail.com](mailto:shaarinesh@gmail.com)
+- 📧 Company Email: [beyondittechno@gmail.com](mailto:beyondittechno@gmail.com)
 - 🔗 LinkedIn: [linkedin.com/in/haarinesh-selvaraju](https://linkedin.com/in/haarinesh-selvaraju)
 - 🌐 Website/Portfolio: Coming Soon
 
