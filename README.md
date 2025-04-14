@@ -78,8 +78,7 @@ Be resourceful like an owl 🌙 • Be resilient like an eagle ☀️ • Be cur
 <details>
   <summary><strong>🌍 Languages</strong></summary>
   <ul>
-    <li>Tamil (Native), English (Fluent), Malay (Fluent), Mandarin (Fluent)</li>
-    <li>French (Basic)</li>
+    <li>Tamil (Native), English (Fluent), Malay (Fluent), Mandarin (Fluent),French (Basic)</li>
   </ul>
 </details>
 
