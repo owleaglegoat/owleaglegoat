@@ -1,13 +1,13 @@
 <!-- GitHub Profile README for Haarinesh Selvaraju aka owleaglegoat -->
 <h1 align="center">Hi, I'm Haarinesh Selvaraju 🦉🦅🐐</h1>
-<h3 align="center">AI Engineer | Full-Stack Developer | VR Creator | Network Automation Enthusiast</h3>
+<h3 align="center">AI Engineer | Full-Stack Developer | VR Creator | Part-time PhD Student</h3>
 <p align="center">
 Be resourceful like an owl 🌙 • Be resilence like an eagle ☀️ • Be curios like a goat 🏔️  
 </p> 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=owleaglegoat&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/badge/currently-online-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/coding-VR%20NPC%20Logic-blueviolet?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=owleaglegoat&label=Profile%20views&color=yellow&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/badge/Currently developing-Virtual Reality%20Aviation%20System-cyan?style=flat" />
+  <img src="https://img.shields.io/badge/Location-Malaysia%20-orange?style=flat" />
 </p>
 
 ### 🛠️ Skills & Tools
