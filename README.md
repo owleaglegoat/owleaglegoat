@@ -8,8 +8,6 @@ Be smart like an owl 🌙 • Be sharp like an eagle ☀️ • Be independent l
   <img src="https://komarev.com/ghpvc/?username=owleaglegoat&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   <img src="https://img.shields.io/badge/currently-online-brightgreen?style=flat-square" />
   <img src="https://img.shields.io/badge/coding-VR%20NPC%20Logic-blueviolet?style=flat-square" />
-  <img src="https://img.shields.io/badge/listening-LoFi%20Focus%20Beats-yellow?style=flat-square&logo=spotify" />
-  <img src="https://spotify-github-profile.vercel.app/api/viewuid=iidnnxe6w2gmburlt4os92t68&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" />
 </p>
 
 ### 🛠️ Skills & Tools
@@ -83,6 +81,9 @@ Be smart like an owl 🌙 • Be sharp like an eagle ☀️ • Be independent l
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Let's+Build+Something+Amazing+Together!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Let's+Build+Something+Amazing+Together!" />
+</p>
+<p align="center">
+<img src ="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=iidnnxe6w2gmburlt4os92t68&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=iidnnxe6w2gmburlt4os92t68&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)"/>
 </p>
 
