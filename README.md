@@ -1,78 +1,84 @@
-
-<!-- README.md - GitHub Profile for Haarinesh Selvaraju -->
-
-<h1 align="center">Hi, I'm Haarinesh Selvaraju 👋</h1>
-<h3 align="center">AI Engineer | Full-Stack Developer | AR/VR Creator | Network Automation Enthusiast</h3>
-
+<!-- GitHub Profile README for Haarinesh Selvaraju aka owleaglegoat -->
+<h1 align="center">Hi, I'm Haarinesh Selvaraju 🦉🦅🐐</h1>
+<h3 align="center">AI Engineer | Full-Stack Developer | VR Creator | Network Automation Enthusiast</h3>
+<p align="center">
+Be smart like an owl 🌙 • Be sharp like an eagle ☀️ • Be independent like a goat 🏔️  
+</p> 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=owleaglegoat&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/badge/currently-online-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/coding-VR%20NPC%20Logic-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/listening-LoFi%20Focus%20Beats-yellow?style=flat-square&logo=spotify" />
+  <img src="https://spotify-github-profile.vercel.app/api/viewuid=iidnnxe6w2gmburlt4os92t68&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" />
 </p>
 
----
+### 🛠️ Skills & Tools
 
-### 🧠 About Me
-
-- 🎓 CS Graduate from **Universiti Teknologi PETRONAS (UTP)** | **PETRONAS Scholar**
-- 💼 Former Intern at **Dell Technologies** | **AI Researcher at PETRONAS Leadership Centre**
-- 🔬 Interested in AI, LLMs, RAG, VR, Full-Stack Dev, Network Automation
-- 🎯 Long-term mission: R&D-driven impact via AI, while pursuing a **part-time PhD**
-- 🗂️ Fun fact: I speak **5 languages** and love building solutions for real-world problems
-
----
-
-### 🛠️ Languages & Tools
-
+#### 👨‍💻 Programming
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,php,html,css,r,bash,csharp,sql,react,nodejs,unity,tensorflow,pytorch,docker,git,linux" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual%20Basic-68217A?style=for-the-badge&logo=dotnet&logoColor=white"/>
 </p>
+
+#### 🧠 Artificial Intelligence & Machine Learning
+- Supervised Learning, Deep Learning, CNNs, Time Series Forecasting, Sentiment Analysis
+- Predictive Modelling, Anomaly Detection, Retrieval-Augmented Generation (RAG), Large Language Models (LLMs)
+- Libraries/Frameworks: `Scikit-learn`, `TensorFlow`, `PyTorch`, `Keras`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `OpenCV`
+
+#### 🌐 Networking
+- Incident Response, Network Monitoring, L2/L3 Support, Protocol Analysis, Port Mapping, Cable Tracing
+
+#### 💻 Development
+- Full-Stack Web Development, Frontend & Backend Integration
+- RESTful API Development, Database Design, UI/UX Implementation
+- Automation Scripting, AR/VR Application Development, Voice Interaction Systems
+- Real-Time Data Processing, AI Model Deployment
+
+#### 🧰 Tools & Platforms
+- `Git`, `Postman`, `Visual Studio`, `Unity`, `NVIDIA ACE`, `Oracle`, `Power BI`, `Power Automate`, `WampServer`
+- `Cisco Packet Tracer`, `Huawei ENSP`, `Wireshark`, `ServiceNow`, `Zabbix`, `Arduino`, `AnyLogic`, `Autopsy`, `Virtual Machine`
+
+#### 🌍 Languages
+- Tamil (Native), English (Fluent), Malay (Fluent), Mandarin (Fluent), French (Basic)
 
 ---
 
-### 📊 GitHub Stats
+### 🏆 Notable Achievements
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=owleaglegoat&show_icons=true&locale=en" alt="Haarinesh's GitHub stats" width="43%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=owleaglegoat" alt="GitHub Streak" width="45.5%" />
-</p>
-
----
-
-### 🏆 Achievements
-
-- 🥇 Gold – AI & IoT International Innovation Expo 2024 (AIoTIE)
-- 🥈 Silver + Pitch Champion – INDES 2024
-- 🧠 Top 15 – Dell Hack2Hire 2023 (from 300+ participants)
-- 📝 Best Article Award – VR-AI Research Publication 2024
+- 🥇 Gold – AIoTIE 2024: Smart Rockmelon Grading with ML & Imaging
+- 🥈 Silver + Product Pitch Champion – INDES 2024
+- 🧠 Top 15 – Dell Hack2Hire 2023 (300+ participants)
+- 📝 Best Science & Tech Article Award – VR-AI Paper 2024
 - 🥉 2nd Runner-Up – Hilti IT Competition 2024
 
 ---
 
-### 💼 Work Experience
+### 🚀 Projects
 
-- 🔧 **Network Automation Intern** @ Dell  
-- 🤖 **AI & VR Researcher** @ PETRONAS Leadership Centre  
-- 🧪 **AI Developer** @ CORIL & CeRDaS (UTP Research Labs)  
-- 🎮 **VR Developer** @ CETaL  
-- 🧠 **Data Science Tutor** @ CADEX
-
----
-
-### 📚 Notable Projects
-
-- 🧬 HDCR Protein Prediction using **AlphaFold 2/3 + ML**
-- 🎮 VR-AI: LLM-powered NPCs with **voice & memory** (NVIDIA ACE)
-- 🌱 Tree-Planting App (QR tracking + full-stack + automation)
-- 🍈 Smart Rockmelon Grading using **ML + IoT + Imaging**
-- 🌍 ML-based Asset Integrity Forecasting (Int'l Research)
+- 🧬 **HDCR Protein Prediction** – AlphaFold 2/3 + Machine Learning
+- 🎮 **VR-AI Simulation** – LLM-powered VR training with voice memory (NVIDIA ACE)
+- 🌱 **Tree-Planting Platform** – QR-based full-stack automation (Dell Hack2Hire)
+- 🍈 **Smart Rockmelon Grader** – AIoT solution for agriculture
+- 🛠️ **Asset Integrity Forecasting** – ML model for emission reduction (Indonesia Collab)
 
 ---
 
-### 🌐 Let's Connect!
+### 📫 Contact Me
 
-📫 **Email**: shaarinesh@gmail.com  
-💼 **LinkedIn**: [linkedin.com/in/haarinesh-selvaraju](https://linkedin.com/in/haarinesh-selvaraju)  
-🌍 **Website**: Coming Soon!  
-💬 Always open to collaboration and research opportunities!
+- 📧 Email: [shaarinesh@gmail.com](mailto:shaarinesh@gmail.com)
+- 🔗 LinkedIn: [linkedin.com/in/haarinesh-selvaraju](https://linkedin.com/in/haarinesh-selvaraju)
+- 🌐 Website/Portfolio: Coming Soon
 
 ---
 
