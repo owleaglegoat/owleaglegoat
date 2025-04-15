@@ -117,7 +117,7 @@ Be resourceful like an owl 🌙 • Be resilient like an eagle ☀️ • Be cur
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=36&duration=3000&pause=1000&color=FF4500&center=true&vCenter=true&width=1000&lines=Let's+Build+Something+Amazing+Together!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&duration=3000&pause=800&color=FF8C00&center=true&vCenter=true&width=1000&height=70&lines=Let's+Ignite+Some+Amazing+Projects!;VR+%26+AR+for+the+Future;AI+Solutions+That+Transform;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </p>
 
 <p align="center">
