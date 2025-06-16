@@ -2,7 +2,7 @@
 <!-- GitHub Profile README for Haarinesh Selvaraju aka owleaglegoat -->
 
 <h1 align="center">Hi, I'm Haarinesh Selvaraju 🦉🦅🐐</h1>
-<h3 align="center">AI Engineer | Full-Stack Developer | VR/AR Freelancer | Part-time PhD Student</h3>
+<h3 align="center">AI Engineer@Lenovo| Full-Stack Developer | Part-time PhD Student</h3>
 
 <p align="center">
 Be resourceful like an owl 🌙 • Be resilient like an eagle ☀️ • Be curious like a goat 🏔️  
