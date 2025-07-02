@@ -11,10 +11,52 @@ body {
   line-height: 1.6;
   color: #333;
   background: #fafafa;
+  padding-top: 60px; /* account for fixed navbar */
+}
+
+.navbar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background: rgba(255,255,255,0.9);
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  z-index: 1000;
+}
+
+.navbar ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+}
+
+.navbar li {
+  margin: 0 1rem;
+}
+
+.navbar a {
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+  position: relative;
+}
+
+.navbar a::after {
+  content: '';
+  position: absolute;
+  bottom: -2px;
+  left: 0;
+  width: 0;
+  height: 2px;
+  background: #333;
+  transition: width 0.3s;
+}
+
+.navbar a:hover::after {
+  width: 100%;
 }
 
 .section {
-  padding: 4rem 2rem;
+  padding: 6rem 2rem 4rem;
   max-width: 900px;
   margin: auto;
   opacity: 0;
@@ -39,6 +81,7 @@ body {
 
 .hero h1 {
   font-size: 2.5rem;
+  animation: fadeIn 1.5s ease-in-out;
 }
 
 .filters {

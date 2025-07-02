@@ -28,6 +28,17 @@ function type() {
 document.addEventListener('DOMContentLoaded', () => {
   type();
 
+  // Smooth scrolling for nav links
+  document.querySelectorAll('.navbar a').forEach(link => {
+    link.addEventListener('click', e => {
+      e.preventDefault();
+      const target = document.querySelector(link.getAttribute('href'));
+      if (target) {
+        target.scrollIntoView({ behavior: 'smooth' });
+      }
+    });
+  });
+
   // Scroll reveal
   const sections = document.querySelectorAll('.section');
   const reveal = () => {
