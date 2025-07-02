@@ -1,1 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Haarinesh Selvaraju - Portfolio</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="img/favicon.ico">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+    <link rel="stylesheet" href="lib/animate/animate.min.css">
+    <link rel="stylesheet" href="lib/owlcarousel/assets/owl.carousel.min.css">
+    <link rel="stylesheet" href="lib/lightbox/css/lightbox.min.css">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body data-spy="scroll" data-target=".navbar" data-offset="51">
+    <!-- Navbar Start -->
+    <nav class="navbar navbar-expand-lg navbar-light">
+        <a href="#home" class="navbar-brand">Haarinesh</a>
+        <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarContent">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarContent">
+            <div class="navbar-nav ml-auto">
+                <a href="#home" class="nav-item nav-link active">Home</a>
+                <a href="#about" class="nav-item nav-link">About</a>
+                <a href="#portfolio" class="nav-item nav-link">Portfolio</a>
+                <a href="#contact" class="nav-item nav-link">Contact</a>
+            </div>
+        </div>
+    </nav>
+    <!-- Navbar End -->
 
+    <!-- Hero Start -->
+    <div class="hero" id="home">
+        <div class="container-fluid">
+            <div class="row align-items-center">
+                <div class="col-lg-6">
+                    <div class="hero-content">
+                        <div class="hero-text">
+                            <p>I'm Haarinesh Selvaraju</p>
+                            <h1>AI Engineer &amp; Developer</h1>
+                            <h2></h2>
+                            <div class="typed-text">Let's Ignite Some Amazing Projects!,VR &amp; AR for the Future,AI Solutions That Transform,Welcome to my GitHub!</div>
+                        </div>
+                        <div class="hero-btn">
+                            <a class="btn" href="#about">Learn More</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="hero-image">
+                        <img src="img/hero.png" alt="Hero Image">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Hero End -->
+
+    <!-- About Start -->
+    <div class="about" id="about">
+        <div class="container-fluid">
+            <div class="row align-items-center">
+                <div class="col-lg-6">
+                    <div class="about-img">
+                        <img src="img/about.jpg" alt="About Image">
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="section-header text-left">
+                        <p>About Me</p>
+                        <h2>Who I Am</h2>
+                    </div>
+                    <div class="about-content">
+                        <div class="about-text">
+                            <p>AI Engineer at Lenovo and full-stack developer pursuing a PhD. I enjoy building projects that blend virtual reality, augmented reality and artificial intelligence.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- About End -->
+
+    <!-- Portfolio Start -->
+    <div class="portfolio" id="portfolio">
+        <div class="container">
+            <div class="section-header text-center">
+                <p>Portfolio</p>
+                <h2>Recent Projects</h2>
+            </div>
+            <div class="row portfolio-container">
+                <div class="col-lg-4 col-md-6 portfolio-item">
+                    <div class="portfolio-wrap">
+                        <div class="portfolio-img">
+                            <img src="img/portfolio-1.jpg" alt="Project 1">
+                        </div>
+                        <div class="portfolio-text">
+                            <h3>VR-AI Simulation</h3>
+                            <a class="btn" href="img/portfolio-1.jpg" data-lightbox="portfolio"><i class="fa fa-plus"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 portfolio-item">
+                    <div class="portfolio-wrap">
+                        <div class="portfolio-img">
+                            <img src="img/portfolio-2.jpg" alt="Project 2">
+                        </div>
+                        <div class="portfolio-text">
+                            <h3>HDCR Protein Prediction</h3>
+                            <a class="btn" href="img/portfolio-2.jpg" data-lightbox="portfolio"><i class="fa fa-plus"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 portfolio-item">
+                    <div class="portfolio-wrap">
+                        <div class="portfolio-img">
+                            <img src="img/portfolio-3.jpg" alt="Project 3">
+                        </div>
+                        <div class="portfolio-text">
+                            <h3>Tree-Planting Platform</h3>
+                            <a class="btn" href="img/portfolio-3.jpg" data-lightbox="portfolio"><i class="fa fa-plus"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Portfolio End -->
+
+    <!-- Contact Start -->
+    <div class="contact" id="contact">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="contact-form">
+                        <div id="success"></div>
+                        <form name="sentMessage" id="contactForm" novalidate="novalidate">
+                            <div class="control-group">
+                                <input type="text" class="form-control" id="name" placeholder="Your Name" required data-validation-required-message="Please enter your name" />
+                                <p class="help-block text-danger"></p>
+                            </div>
+                            <div class="control-group">
+                                <input type="email" class="form-control" id="email" placeholder="Your Email" required data-validation-required-message="Please enter your email" />
+                                <p class="help-block text-danger"></p>
+                            </div>
+                            <div class="control-group">
+                                <input type="text" class="form-control" id="subject" placeholder="Subject" required data-validation-required-message="Please enter a subject" />
+                                <p class="help-block text-danger"></p>
+                            </div>
+                            <div class="control-group">
+                                <textarea class="form-control" id="message" placeholder="Message" required data-validation-required-message="Please enter your message"></textarea>
+                                <p class="help-block text-danger"></p>
+                            </div>
+                            <div>
+                                <button class="btn" type="submit" id="sendMessageButton">Send Message</button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="contact-image">
+                        <img src="img/contact.jpg" alt="Contact Image" style="width:100%;height:100%;object-fit:cover;">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Contact End -->
+
+    <!-- Footer Start -->
+    <div class="footer">
+        <div class="container-fluid">
+            <div class="footer-info">
+                <h2>Haarinesh Selvaraju</h2>
+                <h3>beyondittechno@gmail.com</h3>
+                <div class="footer-menu">
+                    <p><a href="#home">Home</a></p>
+                    <p><a href="#about">About</a></p>
+                    <p><a href="#portfolio">Portfolio</a></p>
+                    <p><a href="#contact">Contact</a></p>
+                </div>
+                <div class="footer-social">
+                    <a href="https://linkedin.com/in/haarinesh-selvaraju"><i class="fab fa-linkedin-in"></i></a>
+                    <a href="https://github.com/owleaglegoat"><i class="fab fa-github"></i></a>
+                </div>
+            </div>
+            <div class="copyright">
+                <p>&copy; 2025 Haarinesh Selvaraju. All Rights Reserved.</p>
+            </div>
+        </div>
+    </div>
+    <!-- Footer End -->
+
+    <!-- JavaScript Libraries -->
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="lib/easing/easing.min.js"></script>
+    <script src="lib/wow/wow.min.js"></script>
+    <script src="lib/waypoints/waypoints.min.js"></script>
+    <script src="lib/owlcarousel/owl.carousel.min.js"></script>
+    <script src="lib/isotope/isotope.pkgd.min.js"></script>
+    <script src="lib/lightbox/js/lightbox.min.js"></script>
+    <script src="lib/typed/typed.min.js"></script>
+    <script src="mail/jqBootstrapValidation.min.js"></script>
+    <script src="mail/contact.js"></script>
+    <script src="js/main.js"></script>
+</body>
+</html>
