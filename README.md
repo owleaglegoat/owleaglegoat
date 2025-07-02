@@ -125,3 +125,14 @@ Be resourceful like an owl 🌙 • Be resilient like an eagle ☀️ • Be cur
     <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=iidnnxe6w2gmburlt4os92t68&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=iidnnxe6w2gmburlt4os92t68&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true" />
   </a>
 </p>
+
+## Portfolio Setup
+
+1. Clone the repository and open `index.html` in your browser.
+2. To preview locally with a web server, install [http-server](https://www.npmjs.com/package/http-server) and run:
+   ```bash
+   npx http-server
+   ```
+   Then navigate to the displayed URL.
+
+A live demo is hosted at [https://owleaglegoat.github.io/owleaglegoat](https://owleaglegoat.github.io/owleaglegoat).
