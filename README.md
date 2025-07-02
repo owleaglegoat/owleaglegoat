@@ -136,3 +136,5 @@ Be resourceful like an owl 🌙 • Be resilient like an eagle ☀️ • Be cur
    Then navigate to the displayed URL.
 
 A live demo is hosted at [https://owleaglegoat.github.io/owleaglegoat](https://owleaglegoat.github.io/owleaglegoat).
+
+The site features a sticky navigation bar with smooth scrolling, a hero section with typed text animation and subtle scroll-reveal effects.
