@@ -1,54 +1,79 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Haarinesh Selvaraju - Portfolio</title>
-  <link rel="stylesheet" href="style.css" />
-</head>
-<body>
-  <header class="hero">
-    <h1 id="typed-text"></h1>
-  </header>
-
-  <section id="about" class="section">
-    <h2>About Me</h2>
-    <p>I am Haarinesh Selvaraju, a data development engineer passionate about transforming data into meaningful products and experiences. My work spans full-stack development, AI solutions and automation.</p>
-  </section>
-
-  <section id="experience" class="section parallax">
-    <h2>Lenovo Experience</h2>
-    <p>At Lenovo, I engineer data-driven platforms, collaborate on innovative product design and build efficient development workflows.</p>
-  </section>
-
-  <section id="projects" class="section">
-    <h2>Projects</h2>
-    <div class="filters">
-      <button data-filter="all">All</button>
-      <button data-filter="web">Web</button>
-      <button data-filter="ai">AI</button>
-    </div>
-    <div class="project-grid">
-      <div class="project-card" data-category="web">
-        <h3>Tree Planting Platform</h3>
-        <p>Automated full-stack solution for sustainability.</p>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Haarinesh Selvaraju - Portfolio</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <nav class="navbar">
+      <ul>
+        <li><a href="#about">About</a></li>
+        <li><a href="#experience">Experience</a></li>
+        <li><a href="#projects">Projects</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+      <button id="theme-toggle" class="theme-toggle" aria-label="Toggle theme">
+        🌙
+      </button>
+    </nav>
+    <header class="hero">
+      <div>
+        <h1 id="typed-text"></h1>
+        <p>Turning ideas into reality.</p>
       </div>
-      <div class="project-card" data-category="ai">
-        <h3>HDCR Protein Prediction</h3>
-        <p>Machine learning model using AlphaFold.</p>
-      </div>
-      <div class="project-card" data-category="web ai">
-        <h3>VR-AI Simulation</h3>
-        <p>Interactive VR system with LLM-powered NPCs.</p>
-      </div>
-    </div>
-  </section>
+    </header>
 
-  <section id="contact" class="section">
-    <h2>Contact</h2>
-    <p>Reach me via <a href="mailto:beyondittechno@gmail.com">beyondittechno@gmail.com</a>.</p>
-  </section>
+    <section id="about" class="section">
+      <h2>About Me</h2>
+      <p>
+        I am Haarinesh Selvaraju, a data development engineer passionate about
+        transforming data into meaningful products and experiences. My work
+        spans full-stack development, AI solutions and automation.
+      </p>
+    </section>
 
-  <script src="script.js"></script>
-</body>
+    <section id="experience" class="section parallax">
+      <h2>Lenovo Experience</h2>
+      <p>
+        At Lenovo, I engineer data-driven platforms, collaborate on innovative
+        product design and build efficient development workflows.
+      </p>
+    </section>
+
+    <section id="projects" class="section">
+      <h2>Projects</h2>
+      <div class="filters">
+        <button data-filter="all">All</button>
+        <button data-filter="web">Web</button>
+        <button data-filter="ai">AI</button>
+      </div>
+      <div class="project-grid">
+        <div class="project-card" data-category="web">
+          <h3>Tree Planting Platform</h3>
+          <p>Automated full-stack solution for sustainability.</p>
+        </div>
+        <div class="project-card" data-category="ai">
+          <h3>HDCR Protein Prediction</h3>
+          <p>Machine learning model using AlphaFold.</p>
+        </div>
+        <div class="project-card" data-category="web ai">
+          <h3>VR-AI Simulation</h3>
+          <p>Interactive VR system with LLM-powered NPCs.</p>
+        </div>
+      </div>
+    </section>
+
+    <section id="contact" class="section">
+      <h2>Contact</h2>
+      <p>
+        Reach me via
+        <a href="mailto:beyondittechno@gmail.com">beyondittechno@gmail.com</a>.
+      </p>
+    </section>
+
+    <button id="top-btn" aria-label="Back to top">↑</button>
+    <script src="script.js"></script>
+  </body>
 </html>

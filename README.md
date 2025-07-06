@@ -1,4 +1,3 @@
-
 <!-- GitHub Profile README for Haarinesh Selvaraju aka owleaglegoat -->
 
 <h1 align="center">Hi, I'm Haarinesh Selvaraju 🦉🦅🐐</h1>
@@ -17,7 +16,9 @@ Be resourceful like an owl 🌙 • Be resilient like an eagle ☀️ • Be cur
 ---
 
 ## 🧠 My Expertise
+
 #### 👨‍💻 Programming
+
 <p>
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=fff"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white"/>
@@ -136,3 +137,5 @@ Be resourceful like an owl 🌙 • Be resilient like an eagle ☀️ • Be cur
    Then navigate to the displayed URL.
 
 A live demo is hosted at [https://owleaglegoat.github.io/owleaglegoat](https://owleaglegoat.github.io/owleaglegoat).
+
+The site features a sticky navigation bar with smooth scrolling, a dark-mode toggle, a hero section with typed text animation, and subtle scroll-reveal effects. A back-to-top button appears after scrolling.
